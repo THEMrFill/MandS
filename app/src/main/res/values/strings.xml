@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marks &amp; Spencers</string>
+    <string name="release_date">Release date:</string>
+    <string name="genres">Genres</string>
+    <string name="overview">Overview</string>
+    <string name="collection">Collection</string>
+</resources>
